@@ -102,7 +102,7 @@ hg add file.txt
 hg commit -m "Added newfile.txt"
 ```
 ![Example Image](https://github.com/Anugrah2334/Devops-Assignment/blob/main/Screenshot11.jpg)
-![Example Image](https://github.com/Anugrah2334/Devops-Assignment/blob/main/Screensho12.jpg)
+![Example Image](https://github.com/Anugrah2334/Devops-Assignment/blob/main/Screenshot12.jpg)
 #### Step 3: Cloning, Updating, and Reverting
 ```sh
 hg clone https://example.com/repo
